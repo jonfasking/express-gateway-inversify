@@ -1,0 +1,8 @@
+node_modules
+*.js
+*.js.map
+!index.js
+download
+!download/.keep
+.DS_Store
+.vscode
